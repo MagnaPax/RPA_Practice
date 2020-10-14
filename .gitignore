@@ -1,0 +1,13 @@
+.settings/
+.local/
+.objects/
+
+.tmh
+
+
+*PackageCache.json
+*ProjectSettings.json
+*.cache
+*.props
+*.backup
+*AllDependencies.json
