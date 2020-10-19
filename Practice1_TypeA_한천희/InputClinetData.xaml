@@ -11,7 +11,7 @@
   <mva:VisualBasic.Settings>
     <x:Null />
   </mva:VisualBasic.Settings>
-  <sap:VirtualizedContainerService.HintSize>1084,2586</sap:VirtualizedContainerService.HintSize>
+  <sap:VirtualizedContainerService.HintSize>1084,2628</sap:VirtualizedContainerService.HintSize>
   <sap2010:WorkflowViewState.IdRef>InputClinetData_1</sap2010:WorkflowViewState.IdRef>
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
@@ -74,10 +74,11 @@
       <AssemblyReference>UiPath.System.Activities.Design</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="InputClinetData" sap:VirtualizedContainerService.HintSize="618,2381" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence sap2010:Annotation.AnnotationText="// WIID, 고객ID, 고객이름, 고객국적 정보가 들어있는 DT_WIIDs_ClientsInfo2 이용해서 입력&#xA;// DT_AllData2 -&gt; 해쉬코드포함 모든 정보 들어있음" DisplayName="InputClinetData" sap:VirtualizedContainerService.HintSize="618,2423" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+        <x:Boolean x:Key="IsAnnotationDocked">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
     <ui:ForEachRow CurrentIndex="{x:Null}" DataTable="[in_DT_WIIDs_ClientsInfo2]" DisplayName="For Each Row" sap:VirtualizedContainerService.HintSize="576,2067" sap2010:WorkflowViewState.IdRef="ForEachRow_1">
