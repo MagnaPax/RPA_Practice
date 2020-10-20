@@ -1,18 +1,17 @@
 {
-  "name": "TypeA_한천희",
-  "description": "TypeA_한천희",
+  "name": "RPA_Session8",
+  "description": "RPA_Session8",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
-    "UiPath.Excel.Activities": "[2.9.3]",
-    "UiPath.Mail.Activities": "[1.9.3]",
-    "UiPath.System.Activities": "[20.10.1]",
-    "UiPath.UIAutomation.Activities": "[20.10.5]"
+    "UiPath.Excel.Activities": "[2.8.6]",
+    "UiPath.Mail.Activities": "[1.8.6]",
+    "UiPath.System.Activities": "[20.4.0]",
+    "UiPath.UIAutomation.Activities": "[20.4.2]"
   },
   "webServices": [],
   "entitiesStores": [],
   "schemaVersion": "4.0",
-  "studioVersion": "20.10.0.0",
+  "studioVersion": "20.4.3.0",
   "projectVersion": "1.0.0",
   "runtimeOptions": {
     "autoDispose": false,
@@ -38,13 +37,13 @@
       "ignoredFiles": []
     },
     "fileInfoCollection": [],
-    "modernBehavior": false
+    "modernBehavior": true
   },
   "expressionLanguage": "VisualBasic",
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "c3efede1-b095-4234-a99d-9cd72c496b9e",
+      "uniqueId": "11278a8d-185e-4157-a97a-80da1fbea6e6",
       "input": [],
       "output": []
     }
