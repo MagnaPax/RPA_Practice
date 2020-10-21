@@ -1,9 +1,8 @@
 {
-  "name": "TypeA_한천희",
-  "description": "TypeA_한천희",
+  "name": "RPA_Advanced",
+  "description": "RPA_Advanced",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
     "UiPath.System.Activities": "[20.10.1]",
@@ -44,7 +43,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "c3efede1-b095-4234-a99d-9cd72c496b9e",
+      "uniqueId": "71d9b5d9-b313-4dbc-a86a-1a26fa60f478",
       "input": [],
       "output": []
     }

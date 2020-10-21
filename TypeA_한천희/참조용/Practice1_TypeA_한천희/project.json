@@ -1,9 +1,8 @@
 {
-  "name": "TypeA_한천희",
-  "description": "TypeA_한천희",
+  "name": "Practice1_TypeA_한천희",
+  "description": "Practice1_TypeA_한천희",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Credentials.Activities": "[1.1.6479.13204]",
     "UiPath.Excel.Activities": "[2.9.3]",
     "UiPath.Mail.Activities": "[1.9.3]",
     "UiPath.System.Activities": "[20.10.1]",
@@ -44,7 +43,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "c3efede1-b095-4234-a99d-9cd72c496b9e",
+      "uniqueId": "54fedbfd-fd94-480d-8f52-67f89f3587f5",
       "input": [],
       "output": []
     }
